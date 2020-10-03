@@ -1,2 +1,2 @@
 # Dsost
-Digital simulation of sewage treatment YK1312
+Digital simulation of sewage treatment
